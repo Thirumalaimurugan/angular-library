@@ -16,6 +16,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "new-year": [
+        "dist/new-year"
+      ],
+      "new-year/*": [
+        "dist/new-year/*"
+      ]
+    }
   }
 }
